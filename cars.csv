@@ -1,7 +1,7 @@
-﻿cars_per_cap,country
-45,AUS
-67,JAP
-44,EGY
-23,IT
-8,LT
-56,FR
+﻿index,cars_per_cap,country
+1,45,AUS
+2,67,JAP
+3,44,EGY
+4,23,IT
+5,8,LT
+6,56,FR
